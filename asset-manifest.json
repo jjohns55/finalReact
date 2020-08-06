@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/jjohns55/finalReact/static/css/main.0b9e1365.chunk.css",
-    "main.js": "/jjohns55/finalReact/static/js/main.ef2a50f2.chunk.js",
-    "main.js.map": "/jjohns55/finalReact/static/js/main.ef2a50f2.chunk.js.map",
+    "main.js": "/jjohns55/finalReact/static/js/main.45bc56fb.chunk.js",
+    "main.js.map": "/jjohns55/finalReact/static/js/main.45bc56fb.chunk.js.map",
     "runtime-main.js": "/jjohns55/finalReact/static/js/runtime-main.326b5c37.js",
     "runtime-main.js.map": "/jjohns55/finalReact/static/js/runtime-main.326b5c37.js.map",
     "static/js/2.b35f68bd.chunk.js": "/jjohns55/finalReact/static/js/2.b35f68bd.chunk.js",
     "static/js/2.b35f68bd.chunk.js.map": "/jjohns55/finalReact/static/js/2.b35f68bd.chunk.js.map",
     "index.html": "/jjohns55/finalReact/index.html",
-    "precache-manifest.d54b401748ee17dc4b67aebf866e9670.js": "/jjohns55/finalReact/precache-manifest.d54b401748ee17dc4b67aebf866e9670.js",
+    "precache-manifest.5d00fd4c6692d1ee6f8b1cd1e3b102f4.js": "/jjohns55/finalReact/precache-manifest.5d00fd4c6692d1ee6f8b1cd1e3b102f4.js",
     "service-worker.js": "/jjohns55/finalReact/service-worker.js",
     "static/css/main.0b9e1365.chunk.css.map": "/jjohns55/finalReact/static/css/main.0b9e1365.chunk.css.map",
     "static/js/2.b35f68bd.chunk.js.LICENSE.txt": "/jjohns55/finalReact/static/js/2.b35f68bd.chunk.js.LICENSE.txt",
-    "static/media/Torch_Gif.gif": "/jjohns55/finalReact/static/media/Torch_Gif.88e1a5d6.gif",
     "static/media/campfire.gif": "/jjohns55/finalReact/static/media/campfire.07a97834.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.326b5c37.js",
     "static/js/2.b35f68bd.chunk.js",
     "static/css/main.0b9e1365.chunk.css",
-    "static/js/main.ef2a50f2.chunk.js"
+    "static/js/main.45bc56fb.chunk.js"
   ]
 }
